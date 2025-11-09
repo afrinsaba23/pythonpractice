@@ -1,4 +1,5 @@
 x=10
-def add():
+def addition():
     print(2+4)
+
     
