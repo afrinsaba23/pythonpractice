@@ -10,3 +10,5 @@ print(result)
 # Output: "This is a test string"
 x=420
 print(x)
+print("hello world")
+ 
