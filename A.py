@@ -8,3 +8,5 @@ input_string = "This is is a test test string string"
 result = remove_duplicate_words(input_string)
 print(result)
 # Output: "This is a test string"
+x=420
+print(x)
